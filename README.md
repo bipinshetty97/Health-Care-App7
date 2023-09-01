@@ -1,1 +1,1 @@
-# Health-Care-App7
+Front end developer capstone - Medical application
